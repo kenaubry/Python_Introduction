@@ -14,4 +14,6 @@ Correction - Instructions conditionnelles : https://nimble-echinacea-d64.notion.
 
 Exercice - Boucles : https://nimble-echinacea-d64.notion.site/Exercice-Boucles-6f1f3af63acf46ff9ee78fc868b06033?pvs=4
 
+Correction - Boucles : https://nimble-echinacea-d64.notion.site/Correction-Boucles-b621ecaf704845df867a34cc3e613bd3?pvs=4
+
 Exercices - Fonctions : https://forms.gle/MRmWKWp8sMsp3U2m7
