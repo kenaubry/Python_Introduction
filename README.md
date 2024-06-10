@@ -17,3 +17,5 @@ Exercice - Boucles : https://nimble-echinacea-d64.notion.site/Exercice-Boucles-6
 Correction - Boucles : https://nimble-echinacea-d64.notion.site/Correction-Boucles-b621ecaf704845df867a34cc3e613bd3?pvs=4
 
 Exercices - Fonctions : https://forms.gle/MRmWKWp8sMsp3U2m7
+
+Correction - Fonctions : https://nimble-echinacea-d64.notion.site/Correction-Exercices-Fonction-db1ff88093674b51816ef6e956d8ca7f?pvs=4
