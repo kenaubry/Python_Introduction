@@ -7,3 +7,5 @@ Lien d'émargement : https://formation.bienvenue.pro/signature/6DA5-19CC
 ## JOUR 1
 
 Cours - Introduction : https://redstoneformations.fr/Cours/Initiation_a_la_programmation_avec_Python-6463152599/Cours/Python_-_Introduction/ib#/
+
+Exercice - Instructions conditionnelles : https://nimble-echinacea-d64.notion.site/Exercice-Instructions-conditionnelles-cdc23a6059e04d1c954d2932f922413c?pvs=4
