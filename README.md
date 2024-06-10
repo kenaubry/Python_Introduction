@@ -13,3 +13,5 @@ Exercice - Instructions conditionnelles : https://nimble-echinacea-d64.notion.si
 Correction - Instructions conditionnelles : https://nimble-echinacea-d64.notion.site/Correction-Instructions-conditionnelles-a0d57bfc99914da8a7c2acd94c678b67?pvs=4
 
 Exercice - Boucles : https://nimble-echinacea-d64.notion.site/Exercice-Boucles-6f1f3af63acf46ff9ee78fc868b06033?pvs=4
+
+Exercices - Fonctions :
