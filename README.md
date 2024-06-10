@@ -21,3 +21,5 @@ Exercices - Fonctions : https://forms.gle/MRmWKWp8sMsp3U2m7
 Correction - Fonctions : https://nimble-echinacea-d64.notion.site/Correction-Exercices-Fonction-db1ff88093674b51816ef6e956d8ca7f?pvs=4
 
 Exercices - Listes : https://nimble-echinacea-d64.notion.site/Exercices-Batterie-Listes-7edd51adf8e14040886f10f42c4c878d?pvs=4
+
+Correction - Listes : https://nimble-echinacea-d64.notion.site/Correction-Batterie-Listes-2d5e52f4be6845b3a1722dd26f519eb4?pvs=4
