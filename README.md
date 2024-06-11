@@ -27,3 +27,5 @@ Correction - Listes : https://nimble-echinacea-d64.notion.site/Correction-Batter
 ## JOUR 2
 
 Exercice - Dictionnaire : https://nimble-echinacea-d64.notion.site/Exercice-Dictionnaires-fc85755fdc2247a2a3d036282d71e053?pvs=4
+
+Correction - Dictionnaire : https://nimble-echinacea-d64.notion.site/Correction-Dictionnaires-b8599772e989407e86eed728ae7fc634?pvs=4
