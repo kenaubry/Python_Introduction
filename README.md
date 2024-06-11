@@ -51,3 +51,5 @@ Exercice - POO - Notes : https://nimble-echinacea-d64.notion.site/Exercice-POO-N
 Correction - POO - Notes : https://nimble-echinacea-d64.notion.site/Correction-POO-Notes-033a0a782c154c398d19c5cd42b83e8b?pvs=4
 
 Exercice - Héritage : https://nimble-echinacea-d64.notion.site/Exercice-H-ritage-f1fad5612a6c4434bdf61dd4dc45e746?pvs=4
+
+Démo - Héritage : https://nimble-echinacea-d64.notion.site/Demo-H-ritage-1d332bd04f2542d389d5e0ab1f974469?pvs=4
