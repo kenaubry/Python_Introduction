@@ -39,3 +39,7 @@ Correction - Chaînes de caractères : https://nimble-echinacea-d64.notion.site/
 Démo - Manipulation de fichiers : https://nimble-echinacea-d64.notion.site/D-mo-Entr-es-Sorties-485d8419de3141bd9467b7813cc98882?pvs=4
 
 Exercice - Manipulation de fichiers : https://nimble-echinacea-d64.notion.site/Exercice-Entr-es-Sorties-304d6af5409d48e4a04cca7c5396bd7c?pvs=4
+
+Correction - Manipulation de fichiers : https://nimble-echinacea-d64.notion.site/Correction-Entr-es-Sorties-1d3778d38ab342d993bd5157a950f5e8?pvs=4
+
+Cours - POO : https://redstoneformations.fr/Cours/Initiation_a_la_programmation_avec_Python-6463152599/Cours/Python_-_POO/ib#/
