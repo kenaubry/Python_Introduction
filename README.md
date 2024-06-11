@@ -48,6 +48,6 @@ Démo - POO : https://nimble-echinacea-d64.notion.site/D-mo-POO-c30649e004984209
 
 Exercice - POO - Notes : https://nimble-echinacea-d64.notion.site/Exercice-POO-Notes-9d2060d82dc2486896f26280cab82693?pvs=4
 
-Correction - POO - Notes :
+Correction - POO - Notes : https://nimble-echinacea-d64.notion.site/Correction-POO-Notes-033a0a782c154c398d19c5cd42b83e8b?pvs=4
 
 Exercice - Héritage : https://nimble-echinacea-d64.notion.site/Exercice-H-ritage-f1fad5612a6c4434bdf61dd4dc45e746?pvs=4
