@@ -23,3 +23,7 @@ Correction - Fonctions : https://nimble-echinacea-d64.notion.site/Correction-Exe
 Exercices - Listes : https://nimble-echinacea-d64.notion.site/Exercices-Batterie-Listes-7edd51adf8e14040886f10f42c4c878d?pvs=4
 
 Correction - Listes : https://nimble-echinacea-d64.notion.site/Correction-Batterie-Listes-2d5e52f4be6845b3a1722dd26f519eb4?pvs=4
+
+## JOUR 2
+
+Exercice - Dictionnaire : https://nimble-echinacea-d64.notion.site/Exercice-Dictionnaires-fc85755fdc2247a2a3d036282d71e053?pvs=4
