@@ -6,6 +6,8 @@ Lien d'émargement : https://formation.bienvenue.pro/signature/BD1A-8F8C
 
 IDE en ligne : https://www.onlinegdb.com/online_python_compiler#
 
+Mail de contact : kenza.aubry@redstoneformations.fr
+
 ## JOUR 1
 
 Cours - Introduction : https://redstoneformations.fr/Cours/Initiation_a_la_programmation_avec_Python-6463152599/Cours/Python_-_Introduction/ib#/
