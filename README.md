@@ -2,7 +2,7 @@
 
 Formulaire stagiaire : https://forms.monday.com/forms/56ba6243d40ea7ec2b557c295bd98750?r=use1
 
-Lien d'émargement : https://formation.bienvenue.pro/signature/59DC-1955
+Lien d'émargement : https://formation.bienvenue.pro/signature/C337-6F03
 
 ## JOUR 1
 
