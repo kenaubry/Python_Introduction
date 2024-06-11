@@ -31,3 +31,5 @@ Exercice - Dictionnaire : https://nimble-echinacea-d64.notion.site/Exercice-Dict
 Correction - Dictionnaire : https://nimble-echinacea-d64.notion.site/Correction-Dictionnaires-b8599772e989407e86eed728ae7fc634?pvs=4
 
 Exercice - Chaînes de caractères : https://nimble-echinacea-d64.notion.site/Exercice-Batterie-de-cha-nes-b5850c3b63c24c6998df570b13ff7cac?pvs=4
+
+Correction - Chaînes de caractères : https://nimble-echinacea-d64.notion.site/Correction-Batterie-de-cha-nes-10c89cad3b434de993d0f399df06a58a?pvs=4
