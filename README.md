@@ -47,3 +47,7 @@ Cours - POO : https://redstoneformations.fr/Cours/Initiation_a_la_programmation_
 Démo - POO : https://nimble-echinacea-d64.notion.site/D-mo-POO-c30649e00498420981f2d58113755c4c?pvs=4
 
 Exercice - POO - Notes : https://nimble-echinacea-d64.notion.site/Exercice-POO-Notes-9d2060d82dc2486896f26280cab82693?pvs=4
+
+Correction - POO - Notes :
+
+Exercice - Héritage : https://nimble-echinacea-d64.notion.site/Exercice-H-ritage-f1fad5612a6c4434bdf61dd4dc45e746?pvs=4
