@@ -44,4 +44,6 @@ Correction - Manipulation de fichiers : https://nimble-echinacea-d64.notion.site
 
 Cours - POO : https://redstoneformations.fr/Cours/Initiation_a_la_programmation_avec_Python-6463152599/Cours/Python_-_POO/ib#/
 
+Démo - POO : https://nimble-echinacea-d64.notion.site/D-mo-POO-c30649e00498420981f2d58113755c4c?pvs=4
+
 Exercice - POO - Notes : https://nimble-echinacea-d64.notion.site/Exercice-POO-Notes-9d2060d82dc2486896f26280cab82693?pvs=4
