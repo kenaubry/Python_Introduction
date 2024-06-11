@@ -2,7 +2,7 @@
 
 Formulaire stagiaire : https://forms.monday.com/forms/56ba6243d40ea7ec2b557c295bd98750?r=use1
 
-Lien d'émargement : https://formation.bienvenue.pro/signature/C337-6F03
+Lien d'émargement : https://formation.bienvenue.pro/signature/BD1A-8F8C
 
 IDE en ligne : https://www.onlinegdb.com/online_python_compiler#
 
@@ -37,3 +37,5 @@ Exercice - Chaînes de caractères : https://nimble-echinacea-d64.notion.site/Ex
 Correction - Chaînes de caractères : https://nimble-echinacea-d64.notion.site/Correction-Batterie-de-cha-nes-10c89cad3b434de993d0f399df06a58a?pvs=4
 
 Démo - Manipulation de fichiers : https://nimble-echinacea-d64.notion.site/D-mo-Entr-es-Sorties-485d8419de3141bd9467b7813cc98882?pvs=4
+
+Exercice - Manipulation de fichiers : https://nimble-echinacea-d64.notion.site/Exercice-Entr-es-Sorties-304d6af5409d48e4a04cca7c5396bd7c?pvs=4
